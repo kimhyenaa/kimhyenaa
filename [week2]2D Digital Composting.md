@@ -66,3 +66,8 @@ CG에서의 빛 표현 방식 중 하나인데 광원에서의 직접광, 그리
 
 GI는 특히 3D애니메이션에서 더 실감나는 느낌을 주기 때문에 중요하다. 
 ![럴럴](https://www.pluralsight.com/content/dam/pluralsight/blog/dt/wp-uploads/2013/12/Light_Bouncing.jpg)
+*https://www.pluralsight.com/blog/film-games/understanding-global-illumination
+
+예를 들어 당신은 이미지를 봤을 때 오른 쪽 벽의 그린 컬러가 구의 오른쪽 측면에 비쳐진다는 사실을 알 수 있다. 이 효과를 간접광이라고 할 수 있다. 왜냐하면 초록빛이 직접적으로 떨어진 것이 아니기 때문이다. 그것보단 white light가 초록색 벽에 부딪히고, 부딪힌 그 빛이 구에 떨어진 것이라고 볼 수 있다. GI는 이러한 독특하고 필요한 성질 덕분에 중요한 역할을 한다. 
+![광자](https://www.pluralsight.com/content/dam/pluralsight/blog/dt/wp-uploads/2013/12/Global_Illumination.jpg)
+이러한 효과를 발휘하기 위해 GI는 mental ray에서 광자 사용을 필요로 한다. 과학적 측면에서 광자는 빛 에너지를 필요로 하는 입자이다. 당
