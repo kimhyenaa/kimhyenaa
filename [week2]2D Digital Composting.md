@@ -65,9 +65,16 @@ DCI-P3: 얘도 모니터에서 쓰는..
 CG에서의 빛 표현 방식 중 하나인데 광원에서의 직접광, 그리고 다른 재질이나 물체, 벽 등에 반사되는 간접광까지 모두 계산해주는 알고리즘을 말한다. (diffuse + ambient + specular )
 
 GI는 특히 3D애니메이션에서 더 실감나는 느낌을 주기 때문에 중요하다. 
+
 ![럴럴](https://www.pluralsight.com/content/dam/pluralsight/blog/dt/wp-uploads/2013/12/Light_Bouncing.jpg)
 *https://www.pluralsight.com/blog/film-games/understanding-global-illumination
 
 예를 들어 당신은 이미지를 봤을 때 오른 쪽 벽의 그린 컬러가 구의 오른쪽 측면에 비쳐진다는 사실을 알 수 있다. 이 효과를 간접광이라고 할 수 있다. 그 이유는 초록빛이 직접적으로 떨어진 것이 아니기 때문이다. white light가 초록색 벽에 부딪히고, 부딪힌 그 빛이 구에 떨어진 것이라고 볼 수 있다. GI는 이러한 독특하고 필요한 성질 덕분에 중요한 역할을 한다. 
+
 ![광자](https://www.pluralsight.com/content/dam/pluralsight/blog/dt/wp-uploads/2013/12/Global_Illumination.jpg)
-이러한 효과를 발휘하기 위해 GI는 mental ray에서 광자 사용을 필요로 한다. 과학적 측면에서 광자는 빛 에너지를 필요로 하는 입자이다. 당
+
+이 효과는 mental ray에서 광자 사용을 필요로 한다. 과학적 측면에서 광자는 빛 에너지를 필요로 하는 입자이다. 광자가 물체와 표면에 부딪히며 충분한 빛에너지를 흡수하게 되었을 때 우리 눈에 보이는 현실세계와 동일한 효과를 가져올 수 있다.
+
+![광자효과원리](https://www.pluralsight.com/content/dam/pluralsight/blog/dt/wp-uploads/2013/12/GI_Example.jpg)
+
+이 때 충분하게 에너지를 흡수하기 위해 여러 번 튕기게 되는데 그 수가 1픽셀 당 적게는 1000개, 많게는 10000개의 광자가 필요하다고 한다. GI는 리얼한 효과를 가져오지만 이 엄청난 수만큼 렌더링이 오래 걸린다는 단점이 있다.  
