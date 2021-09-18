@@ -20,7 +20,9 @@ Week2 What is Color? What is Alpha? Omega?...
 색을 쓰기 위해 색에 대한 과학적인 지식을 아는 것은 중요하다. 색은 빛으로 이루어져 있고, 색은 다양한 파장을 가지고 있으며 우리 안구 망막에 도착하면 신경신호로 변환되어 뇌에서 처리 된다. 
 
 ### Bit depth of a color
-![k-5581](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/042626aa-7779-43b6-b1db-008bf779bd29/K-5581.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210918%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210918T105614Z&X-Amz-Expires=86400&X-Amz-Signature=7e3317dd624b5ad269a2635e90b0336153e01596e63f3cff9c12abec2b183c22&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22K-5581.png%22)
+![k-5581](https://d36nqgmw98q4v5.cloudfront.net/image-handler/ts/20161226021437/ri/750/src/images/Article_Images/ImageForArticle_1151(1).jpg)
+  https://www.azooptics.com/Article.aspx?ArticleID=1151
+ 
 1 bits: 2의 1승 / 2 bits: 2의 2승  / 3 bits: 2의 3승
 ### 알파
 RGB에 추가적으로 새로 채널을 만든 것을 말한다. 풀컬러 픽셀은 RGB A라고 한다.
