@@ -11,11 +11,19 @@ Week2 What is Color? What is Alpha? Omega?...
 2D 트래킹: 오브젝트 X, Y 영상 내의 트래킹을 따라가는 것. ex: 오브제를 손 위에 올려 놓거나 문양을 축하기
 3D 트래킹: 카메라의 움직임을 재현한다. ex: 걸어가면서 말할 때 카메라의 흔들림을 재현한다. 
 
-###color
+### color
 색이란 감정이다. 
 * 색상, 채도, 명도로 구분된다.
 
 색조란 색상환 내에서 위치.
 예술가들에게 색은 전부다. 색의 의미를 내포하여 이야기에 포함 시킨다.
 색을 쓰기 위해 색에 대한 과학적인 지식을 아는 것은 중요하다. 색은 빛으로 이루어져 있고, 색은 다양한 파장을 가지고 있으며 우리 안구 망막에 도착하면 신경신호로 변환되어 뇌에서 처리 된다. 
+
+### Bit depth of a color
+![k-5581](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/042626aa-7779-43b6-b1db-008bf779bd29/K-5581.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210918%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210918T105614Z&X-Amz-Expires=86400&X-Amz-Signature=7e3317dd624b5ad269a2635e90b0336153e01596e63f3cff9c12abec2b183c22&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22K-5581.png%22)
+1 bits: 2의 1승 / 2 bits: 2의 2승  / 3 bits: 2의 3승
+### 알파
+RGB에 추가적으로 새로 채널을 만든 것을 말한다. 풀컬러 픽셀은 RGB A라고 한다.
+### 컬러스페이스
+![K-5584](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a46df6db-814e-4412-b24e-4cbe376bdddf/K-5584.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210918%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210918T110000Z&X-Amz-Expires=86400&X-Amz-Signature=327c14ee972b2bf792cfe0adcbae10ed5d02bcd21e00c2f33b530e8506a3ece0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22K-5584.png%22)
 
