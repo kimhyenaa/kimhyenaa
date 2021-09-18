@@ -61,6 +61,9 @@ DCI-P3: 얘도 모니터에서 쓰는..
 *https://www.slideserve.com/chyna/generating-a-global-illumination-map-on-gpu
 
 예술가들은 색으로 이야기를 표현한다는 이야기를 듣고 애니메이션 회사 '픽사'의 컬러 표현에 관하여 찾아보다 해당 개념을 발견하였다. 
+*http://skimation.blogspot.com/2013/10/mika-10-pixar.html
+
+
 * GI(Global Illumination)란
 CG에서의 빛 표현 방식 중 하나인데 광원에서의 직접광, 그리고 다른 재질이나 물체, 벽 등에 반사되는 간접광까지 모두 계산해주는 알고리즘을 말한다. (diffuse + ambient + specular )
 
