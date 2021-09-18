@@ -29,7 +29,7 @@ RGB에 추가적으로 새로 채널을 만든 것을 말한다. 풀컬러 픽�
 ### 컬러스페이스
 ![K-5584](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a46df6db-814e-4412-b24e-4cbe376bdddf/K-5584.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210918%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210918T110000Z&X-Amz-Expires=86400&X-Amz-Signature=327c14ee972b2bf792cfe0adcbae10ed5d02bcd21e00c2f33b530e8506a3ece0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22K-5584.png%22)
 
-Scalar (X):1이냐 0 같은 하나의 수치만으로 완전히 표시되는 값. 1부터 100. 0,1,2,3,,n..
+Scalar (X):1이냐 0 같은 하나의 수치만으로 완전히 표시되는 값. ex: 1부터 100. 0,1,2,3,,n..
 
 VECTOR2: (X,Y)
 
@@ -49,4 +49,6 @@ EIZO(현존하는 가장 비싼 모니터. 색 표현 잘하는 회사): 흰색�
 
 DCI-P3: 얘도 모니터에서 쓰는.. 
 
-컬러스페이스가 커지면 이뻐진다? > 삐.. 그냥 표현할 수 있는 색의 영역이 넓어진다.
+* 우리가 흔히 하는 오해 
+
+컬러스페이스가 커지면 이뻐진다? > 삐.. 그냥 표현할 수 있는 색의 영역이 넓어지는 것 뿐이다.
