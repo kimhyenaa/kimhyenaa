@@ -52,15 +52,3 @@ Week3 Gamma / Linear Workflow ...
     인간의 눈 안에 세 가지 감광 세포가 있는데 우리는 이 다양한 빛의 파장을 포착한다. 이 때 이 빛의 파장을 우린 가시 스펙트럼이라고 한다. 
     
     
-### Bit depth of a color
-![k-5581](https://d36nqgmw98q4v5.cloudfront.net/image-handler/ts/20161226021437/ri/750/src/images/Article_Images/ImageForArticle_1151(1).jpg)
-  https://www.azooptics.com/Article.aspx?ArticleID=1151
- 
-1 bits: 2의 1승 / 2 bits: 2의 2승  / 3 bits: 2의 3승
-### 알파
-RGB에 추가적으로 새로 채널을 만든 것을 말한다. 풀컬러 픽셀은 RGB A라고 한다.
-### 컬러스페이스
-![K-5584](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a46df6db-814e-4412-b24e-4cbe376bdddf/K-5584.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210918%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210918T110000Z&X-Amz-Expires=86400&X-Amz-Signature=327c14ee972b2bf792cfe0adcbae10ed5d02bcd21e00c2f33b530e8506a3ece0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22K-5584.png%22)
-
-Scalar (X):1이냐 0 같은 하나의 수치만으로 완전히 표시되는 값. ex: 1부터 100. 0,1,2,3,,n..
-
