@@ -15,6 +15,7 @@ Week2 Gamma / Linear Workflow ...
 * color space : 모니터에서 압도적인 점유율을 차지하고 있는 컬러스페이스는 sRGB 이다. 
  * 선형 RGB : 카메라 센서에서 얻은 원시 데이터. R, G, B 값은 빛의 양에 정비례. 
  * SRGB: 선형 RGB값에 **감마보정**이라는 비선형 함수 적용
+ 
 [참고자료] https://kr.mathworks.com/help/images/understanding-color-spaces-and-color-space-conversion.html
  
  
