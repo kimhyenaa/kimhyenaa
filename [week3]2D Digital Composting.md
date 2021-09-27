@@ -31,7 +31,9 @@ Week3 Gamma / Linear Workflow ...
  
  소녀와 기린을 합성해보자.
  !(아아악)[https://limnu.com/wp-content/uploads/2016/07/premult2-image00.png]
+ 
  !(으어억)[https://limnu.com/wp-content/uploads/2016/07/premult2-image01.png]
+ 
  소녀에게서 마스크로 소녀만 따내고 기린 사진에서 소녀가 들어갈 부분을 파준다.(검은색은 이미지를 가려주는 역할을 한다.)
  그리고 소녀와 기린 배경을 합성한다. TO MULIPLY(곱하는 것)는 TO MASK(마스크 씌우는 것)을 말한다.
  PRE-MULIPLIED는 즉 PRE-MASKED를 말한다. 
