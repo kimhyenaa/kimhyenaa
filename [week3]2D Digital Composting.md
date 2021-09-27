@@ -23,6 +23,7 @@ Week3 Gamma / Linear Workflow ...
     * A: 넵. 화질을 높은 것에서 낮게 줄이는 것은 가능하지만, 낮은 화질에서 높은 화질로 만들 수 없는 거랑 똑같습니다. 회사마다 컬러콕이 다 다른데 그걸 포괄할 수 있는게 ACES 입니다.
     * 풀컬러픽셀: RGBA /  투명함을 표현하는 건 ALPHA
 [https://www.oscars.org/science-technology/sci-tech-projects/aces]
+[https://artnfear.com/entry/ACES-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%9E%80]
 
 
  * **Pre - multipl - ication** : 
