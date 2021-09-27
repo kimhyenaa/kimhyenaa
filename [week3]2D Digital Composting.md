@@ -30,9 +30,9 @@ Week3 Gamma / Linear Workflow ...
  premultiplied alpha를 알기에 앞서 알파채널은 레이어의 보이는 정도를 조절할 수 있는 마스크를 말한다. 예를 들어 포토샵에서 이미지에 마스크를 씌우고 검정색으로 원하는 부위를 그리기 시작하면 그 부분의 이미지는 보이지 않는다. 
  
  소녀와 기린을 합성해보자.
- !(아아악)[https://limnu.com/wp-content/uploads/2016/07/premult2-image00.png]
+ ![아아악](https://limnu.com/wp-content/uploads/2016/07/premult2-image00.png)
  
- !(으어억)[https://limnu.com/wp-content/uploads/2016/07/premult2-image01.png]
+ ![으어억](https://limnu.com/wp-content/uploads/2016/07/premult2-image01.png)
  
  소녀에게서 마스크로 소녀만 따내고 기린 사진에서 소녀가 들어갈 부분을 파준다.(검은색은 이미지를 가려주는 역할을 한다.)
  그리고 소녀와 기린 배경을 합성한다. TO MULIPLY(곱하는 것)는 TO MASK(마스크 씌우는 것)을 말한다.
