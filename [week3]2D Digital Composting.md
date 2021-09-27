@@ -3,7 +3,7 @@
 =============
 Week3 Gamma / Linear Workflow ...
 -------------
-## summary
+## summary & RESEARCH
 * **Linear Workflow?** : 실제 세상의 빛은 linear로 작용한다. 우리는 광원들의 빛을 곧이곧대로 받아들인다. 즉 실제 세상에서 빛을 볼 때는 input과  output이 동일한 상태이다. 이를 **linear** 라고 한다. 현재 linear workflow는 강력한 성능과 유연성 덕분에 대부분의 스튜디오에서 채택한 산업 표준이 되었다. 
 
 우리가 볼 수 있는 모든 빛을 디지털(모니터)로 구현하기는 어렵다. 
@@ -28,7 +28,8 @@ Week3 Gamma / Linear Workflow ...
  * **Pre - multipl - ication** : 
 포토샵은 알파를 스트레이트방식으로 처리한다. 포토샵은 자동적으로 투명도를 조절하기에 알파개념이 없다.
 반면에 누크는 프리멀티프라이 개념이 적용돼있어서 누끼를 딸 때 사용된다.
- 
+
+ [https://limnu.com/premultiplied-alpha-primer-artists/]
  
  
  
