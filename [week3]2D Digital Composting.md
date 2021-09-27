@@ -1,7 +1,7 @@
 
 2D Digital Compositing
 =============
-Week2 Gamma / Linear Workflow ...
+Week3 Gamma / Linear Workflow ...
 -------------
 ## summary
 * **Linear Workflow?** : 실제 세상의 빛은 linear로 작용한다. 우리는 광원들의 빛을 곧이곧대로 받아들인다. 즉 실제 세상에서 빛을 볼 때는 input과  output이 동일한 상태이다. 이를 **linear** 라고 한다. 현재 linear workflow는 강력한 성능과 유연성 덕분에 대부분의 스튜디오에서 채택한 산업 표준이 되었다. 
@@ -32,13 +32,8 @@ Week2 Gamma / Linear Workflow ...
  
  
  
-### color
-색이란 감정이다. 
-* 색상, 채도, 명도로 구분된다.
+### VIDEO(Watch color-management-fundamentals-aces-workflows- in nuke)
 
-색조란 색상환 내에서 위치.
-예술가들에게 색은 전부다. 색의 의미를 내포하여 이야기에 포함 시킨다.
-색을 쓰기 위해 색에 대한 과학적인 지식을 아는 것은 중요하다. 색은 빛으로 이루어져 있고, 색은 다양한 파장을 가지고 있으며 우리 안구 망막에 도착하면 신경신호로 변환되어 뇌에서 처리 된다. 
 
 ### Bit depth of a color
 ![k-5581](https://d36nqgmw98q4v5.cloudfront.net/image-handler/ts/20161226021437/ri/750/src/images/Article_Images/ImageForArticle_1151(1).jpg)
