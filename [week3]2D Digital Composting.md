@@ -48,7 +48,9 @@ Week3 Gamma / Linear Workflow ...
  
  
  
- 
+ *
+ *
+ *
  
 ### VIDEO(Watch color-management-fundamentals-aces-workflows- in nuke)
 -------------
