@@ -32,8 +32,10 @@ Week3 Gamma / Linear Workflow ...
  
  
  
+ 
 ### VIDEO(Watch color-management-fundamentals-aces-workflows- in nuke)
 -------------
+## summary
 [https://www.youtube.com/watch?v=Hlj5ep-85ys]
 * color management 란?
  모두가 어디에서든 각자 스크린에서 동일한 색을 볼 수 있는 것
