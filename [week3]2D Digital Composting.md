@@ -1,6 +1,12 @@
 
 2D Digital Compositing
 =============
+![누크](https://postfiles.pstatic.net/MjAyMTEwMDRfMTA5/MDAxNjMzMjgwNDA3NzE4.qBvq64OSCJT_qWGXaeQy6pqyUWJQm8bklnDDvZFCB2Ig.ekhL8b5E1gasUksymG2Lf-YsTq_uu6PVq0dUyCclNqwg.PNG.hjkl3805/test_comp.png?type=w773)
+
+![포토샵](https://postfiles.pstatic.net/MjAyMTEwMDRfMTAx/MDAxNjMzMjgwNDA3NjAw.jVPINkuDQUzCSzT063VZb6KX2CNLAXsAKAkEFVu1rsIg.eEjdkhY2vWWDRttVuB6rUTn1kwQQdppPx7l9Narp0Ggg.PNG.hjkl3805/%ED%88%AC%EB%94%94%ED%95%A93%EC%A3%BC%EC%B0%A8%ED%85%8C%EC%8A%A4%ED%8A%B8.png?type=w773)
+
+
+=============
 Week3 Gamma / Linear Workflow ...
 -------------
 ## summary & RESEARCH
