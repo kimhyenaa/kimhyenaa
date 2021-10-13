@@ -31,3 +31,8 @@ palm : 폴더같은 개념. 전체적으로 움직일 수 있다
 클론_포토샵 스탬프 기능 
 
 life 신경쓰기...
+
+
+## MERGE OPERATION
+
+![image](https://user-images.githubusercontent.com/90346972/137203273-fbaaab4a-9566-4cc3-bb25-edd4de992ce6.png)
