@@ -11,7 +11,8 @@ Chroma key
 4. 돈비쌈
 5. 그린스크린
 
-##Chroma Key Lighting
+=============
+Chroma Key Lighting
 크로마키 방에 쏟아지는 조명들 중 천장에 달린 두개는 피사체를 향한 것이 아니라 벽을 향한 것이다. 사람의 그림자가 벽에 지기 때문에 그것을 방지하고자 벽을 향해 쏜다. 
 
 ##soft key, hard key + keymix
