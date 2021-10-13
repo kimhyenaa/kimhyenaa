@@ -57,3 +57,10 @@ operation 순서대로 작업한다고 생각하면 된다.
 
 **Ultimatte**
 우리가 사용할거면 프리랑 얼티 둘다 forground에 적용하면 된다 
+
+
+
+=============
+## GRADE NODE
+
+input data를 조절하는 필터 노드이다. 우리는 Whitepoint, Lift, Gain, Multiply와 Gamma를 조절할 수 있고 Offset을 줄일 수 있다.  
