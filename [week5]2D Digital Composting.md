@@ -73,3 +73,5 @@ input data를 조절하는 필터 노드이다. 우리는 Whitepoint, Lift, Gain
 ![누크적용](https://postfiles.pstatic.net/MjAyMTEwMTRfMTY3/MDAxNjM0MTUzNDI1ODU1.785g8LFoIfi1sOJJL-bbIsvycFqjJGmKy6-Wr5-b4UQg.OfZ9gamQ6_41e0GVZWH6RQ5tJ-ZtaC7CPabq6eZV_nAg.PNG.hjkl3805/K-5792.png?type=w773)
 
 grade적용값
+
+좀더 HOLY한 느낌 UP~
