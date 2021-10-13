@@ -64,3 +64,10 @@ operation 순서대로 작업한다고 생각하면 된다.
 ## GRADE NODE
 
 input data를 조절하는 필터 노드이다. 우리는 Whitepoint, Lift, Gain, Multiply와 Gamma를 조절할 수 있고 Offset을 줄일 수 있다.  
+
+![원본](https://postfiles.pstatic.net/MjAyMTEwMTRfNjQg/MDAxNjM0MTUzMzkzNzg4.EFx9InGrtZ7f56WZzFFZQa5r6w1gTplkkdaEu2c9AUAg.aFSut_eLx8qT0Mt5IirQHj9QlzNo3G_LT-j0-Dt5vngg.JPEG.hjkl3805/%EA%B8%88%EC%86%8D.jpg?type=w773)
+
+기본 이미지
+![누크적용](https://postfiles.pstatic.net/MjAyMTEwMTRfMjY4/MDAxNjM0MTUzMzkzODcx.8tBUBek0TlWInizW-tnua4tFcwMvck6wwXVoWUGZ6tUg.RlrDX_DMDpjNtb0vig1K6WgxYb2BnQQtbL8pojGjQcYg.PNG.hjkl3805/5test.png?type=w773)
+![누크적용](https://postfiles.pstatic.net/MjAyMTEwMTRfMTY3/MDAxNjM0MTUzNDI1ODU1.785g8LFoIfi1sOJJL-bbIsvycFqjJGmKy6-Wr5-b4UQg.OfZ9gamQ6_41e0GVZWH6RQ5tJ-ZtaC7CPabq6eZV_nAg.PNG.hjkl3805/K-5792.png?type=w773)
+grade적용값
