@@ -33,6 +33,9 @@ whitepoint효과를 주고난 후에 돌아오고 싶을 때 gain효과를 주�
 offset > 픽셀에 수치 추가. 커브를 위로 올리면 픽셀이 추가된다.
 Lift > offset에 준 같은 값을 lift에 넣으면 lift는 화이트 포인트값을 사용하여 블랙부분을 올린다. 
 
+
+lift 와 offset은 큰 차이가 없지만 픽셀을 어떻게 조작하는지에 따라 수학적으로 큰 차이가 있습니다. 
+
 ### Multiply
 
 ### Gamma
