@@ -21,16 +21,24 @@ The Math of Comp *(Ben McEwan)*
  가장 흔히 쓰이는 필터입니다. 동작구조는 픽셀을 둘러싼 주위에 새 수치를 입력해주는 필터입니다. 이 필터는 이미지를 더 부드럽고 좋은 결과를 얻어낼 수 있습니다.  
  
  
-### Keys
+### Key
+키 필터를 키면 당신은 baseline 아래에 graph dips를 확인할 수 있습니다. 이것은 픽셀을 각지게 만드는 negative pixel interpolation입니다.
 
 ### Simon and Rifman
+큐빅필터와 비슷하게 경계면을 부드럽게 만들어줍니다. 큐빅과 다른 점은 얼마나 날카로워졌는지 그 양을 알려줍니다. sharpening artefacts는 중심부분이 어두운, 후광이고 가장자리로 갈수록 밝아집니다.
+
+가장 밝은 부분과 어두운 부분의 차이가 작아야 우리는 부드러운 결과를 얻을 수 있습니다.
 
 ### Parzen
+전체적으로 날카로운 부분을 지워주고 넓은 범위의 픽셀을 삽입합니다.
 
 ### Notch
+parzen과 반대로 갑니다. 그래프의 중심포인트가 작아질수록 결과는 원본을 덜 참고합니다. smoother pixel은 buzzing edges나 moire patterns를 지우고 싶을 때 사용하는 것이 이상적입니다. 
 
 ### Lanczos 4
+sharpness를 유지하면서 큐빅필터의 부드러움을 유지해주는 필터입니다.
 
 ### Lanczos 6
+바로 위 필터와 동일합니다. 차이점은 주변에 배치할 수 있는 픽셀수가 4에서 6으로 늘어납니다. 
 
 ### Sinc4
