@@ -14,20 +14,20 @@ The Math of Comp *(Ben McEwan)*
 
  만약 여러분들이 이미지를 45도 각도로 회전시킨다고 가정합시다. 그러면 grade node의 변형 operation 연결이 깨질 것입니다. 해결방법은 다음과 같습니다. 우선 여기에 수치 변화가 없고 변형이 필요없는 RAW 이미지가 있습니다. 이 이미지를 변형시켜보죠! 
  
-## IMPULSE
+# IMPULSE
 
-## Cubic
+# Cubic
 
-## Keys
+# Keys
 
-## Simon and Rifman
+# Simon and Rifman
 
-## Parzen
+# Parzen
 
-## Notch
+# Notch
 
-## Lanczos 4
+# Lanczos 4
 
-## Lanczos 6
+# Lanczos 6
 
-## Sinc4
+# Sinc4
