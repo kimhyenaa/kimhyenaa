@@ -6,6 +6,32 @@
 
 The Math of Comp *(Ben McEwan)*
 -------------
+## LESSON 01a: The Grade Node.
+
+####(1). Remapping the lowest & highest values of an image to new values
+
+### Blackpoint
+가장 어두운 픽셀을 설정한 값으로 변경해준다. 예를들어 블랙포인트를 0.1로 설정하면 0과 0.1 사이에 값은 없고 전부 0으로 설정된다.
+
+
+### Lift
+
+무슨말이지..
+
+### Whitepoint
+
+### Gain
+
+####(2). Giving compositors global control on pixel brightness and contrast
+
+### Lift and Offset
+
+### Multiply
+
+### Gamma
+
+
+
 ## LESSON 02a: pixel Filtering.
 
 우리가 누크에서 이미지를 조작할 때마다 우리는 픽셀들을 어떻게해서든 조절해야합니다. 가장 명백한 픽셀 변동의 예시는 우리가 이미지를 변형할 때 입니다. The **Transform** 노드는 우리가 sub pixel values를 사용할 수 있게 합니다. 하지만 누크는 어떻게 할 수 있던 것일까요? 우리가 스케일을 조절하거나 이미지를 회전시킬 때 누크의 픽셀수치는 어떻게 돌아가는 것일까요? 
