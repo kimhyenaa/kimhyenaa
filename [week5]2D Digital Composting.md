@@ -74,4 +74,4 @@ input data를 조절하는 필터 노드이다. 우리는 Whitepoint, Lift, Gain
 
 grade적용값
 
-좀더 HOLY한 느낌 UP~
+좀더 밝은 느낌으로 바꿔보았다. 
