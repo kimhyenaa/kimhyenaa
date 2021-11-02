@@ -15,16 +15,23 @@ The Math of Comp *(Ben McEwan)*
 
 
 ### Lift
-
-무슨말이지..
+블랙포인트와 함께 사용하는 기능이다. 예를들어 블랙포인트와 함께 0.1로 설정했을시 이미지는 변하지 않는다. 
+blackpoint가 합성한 물체의 가장 어두운 지점을 샘플링하면 Lift로 plate에서 가장 어두운 부분을 오브젝트 값과 똑같게 재구성합니다. 
 
 ### Whitepoint
+가장 밝은 픽셀 지정. whitepoint 값을 내리면 이미지는 밝아진다. 누크에게 1과 0.7은 동일한 값이 아니라고 선언한 것과 마찬가지라 누크는 픽셀을 linear fashion 사이에서 재구성한다. 0.7~1 사이의 값은 line이 증가한 범위만큼 밝아진다. 
 
 ### Gain
+whitepoint와 Gain값의 수치가 같다면 이미지는 원래 상태로 돌아온다. 
+whitepoint효과를 주고난 후에 돌아오고 싶을 때 gain효과를 주로 사용한다. 
+
 
 ####(2). Giving compositors global control on pixel brightness and contrast
 
 ### Lift and Offset
+
+offset > 픽셀에 수치 추가. 커브를 위로 올리면 픽셀이 추가된다.
+Lift > offset에 준 같은 값을 lift에 넣으면 lift는 화이트 포인트값을 사용하여 블랙부분을 올린다. 
 
 ### Multiply
 
