@@ -1,5 +1,5 @@
 2D Digital Compositing
 =============
-Week9 0
+Week9 
 -------------
 ## summary
