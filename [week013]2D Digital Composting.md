@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/90346972/146673658-ce67b661-781f-4057-ba36-2eefade80fa8.png)
+
+
 모니터에 코너핀 말고 planar track으로 따보라는 조언을 들었다.
 조언에 따라 planar track관련 영상을 시청 후 따라했다.
 planar track은 roto 기능 안에서 찾아볼 수 있다.
