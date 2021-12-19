@@ -1,3 +1,9 @@
+2D Digital Compositing
+=============
+mattepainting
+-------------
+## summary
+
 mattepainting
 
 scanline render: 투디카메라랑 씬을 렌더해주는 노드
