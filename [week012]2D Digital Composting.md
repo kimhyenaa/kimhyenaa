@@ -8,6 +8,7 @@
 이 지점은 합성하기 애매해 아예 제외했다.
 
 
-https://i.ytimg.com/vi/tgwm2IDuu8g/maxresdefault.jpg
+![image](https://user-images.githubusercontent.com/90346972/146673610-bcc6e48c-b657-4259-b878-6f54d807ecee.png)
+
 green screen image tracker를 띄워놓고 작업을 하였다. 트래킹 포인트는 확실히 이전보다 잘 따졌다. 하지만 문제가 있었다. 트래커 포인트, 즉 동그라미가 모니터 안 쪽에 있는지라 이미지를 합성하면 
 안 쪽에 합성되는 것이었다. 나는 관련 자료를 더 찾아보고, 동그라미 부분이 아닌 모니터 화면이 끝나느 가장자리 부분에 각 트래커를 달고 set to input을 통해 이미지를 맞춘다는 사실을 깨달았다. 
